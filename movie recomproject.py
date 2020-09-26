@@ -2,7 +2,7 @@
 """
 Created on Sat Feb 13 23:58:21 2016
 
-@author: Deepu
+@author: Deepu 
 """
 
 # A dictionary of movie critics and their ratings of a small
